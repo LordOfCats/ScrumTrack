@@ -43,10 +43,10 @@
       <value>Команды</value>
     </synonym>
     <attributes uuid="96e60569-9afa-408e-ac0a-3a1db5186d25">
-      <name>Командв</name>
+      <name>Команда</name>
       <synonym>
         <key>ru</key>
-        <value>Командв</value>
+        <value>Команда</value>
       </synonym>
       <type>
         <types>CatalogRef.Команды</types>
